@@ -1,9 +1,9 @@
-<h1 align="center">JeoungKyu Park 박정규</h1>
+<h2 align="center">JeoungKyu Park 박정규</h2>
 <h3 align="center">42서울 5기 본과정 교육생</h3>
 
-- 2017~ Ajou University [Software & Computer Science](http://software.ajou.ac.kr/main.php)
+- 2017.03~ Ajou University [Software & Computer Science](http://software.ajou.ac.kr/main.php)
 
-- 2021~ 42Seoul [:D](https://42seoul.kr/seoul42/main/view)
+- 2021.10~ 42Seoul [:D](https://42seoul.kr/seoul42/main/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
