@@ -7,6 +7,9 @@
 
 [![jeounpar's 42 stats](https://badge42.herokuapp.com/api/stats/jeounpar?privacyName=true)](https://github.com/jeounpar/badge42)
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdex6531)](https://solved.ac/cdex6531/)
+
 <h3 align="left">SNS:</h3>
 <p align="left">
 <a href="https://instagram.com/cdex_9901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cdex6531" height="30" width="40" /></a>
