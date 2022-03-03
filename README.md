@@ -5,7 +5,5 @@
 
 - 2021.10~ 42Seoul [:D](https://42seoul.kr/seoul42/main/view)
 
-[![jeounpar's 42 stats](https://badge42.herokuapp.com/api/stats/jeounpar?privacyName=true)](https://github.com/jeounpar/badge42)
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdex6531)](https://solved.ac/cdex6531/)
