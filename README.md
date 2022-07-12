@@ -1,4 +1,5 @@
 <h2 align="center">JeongKyu Park 박정규</h2>
+<h3 align="center"> Learning for Backend Developer</h3>
 
 - 2017.03~ Ajou University [Software & Computer Science](http://software.ajou.ac.kr/main.php)
 
