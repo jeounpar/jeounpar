@@ -9,3 +9,5 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdex6531)](https://solved.ac/cdex6531/)
+
+- My Notion (https://bit.ly/3DGiQa7)
