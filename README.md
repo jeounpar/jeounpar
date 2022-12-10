@@ -3,7 +3,7 @@
 
 - 2017.03~ Ajou University [Software & Computer Science](http://software.ajou.ac.kr/main.php)
 
-- 2021.10~ 42Seoul [:D](https://42seoul.kr/seoul42/main/view)
+- 2021.10 ~ 2022.12 42Seoul [:D](https://42seoul.kr/seoul42/main/view)
 
 - [My Notion](https://jeounpar.notion.site/JeongKyu-Park-639628958549428893c9b5261feccaa9)
 
