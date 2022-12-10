@@ -7,8 +7,5 @@
 
 - [My Notion](https://jeounpar.notion.site/JeongKyu-Park-639628958549428893c9b5261feccaa9)
 
-[![jeounpar's 42 stats](https://badge42.vercel.app/api/v2/cl1n3dl45008409laqsz21yso/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdex6531)](https://solved.ac/cdex6531/)
 
