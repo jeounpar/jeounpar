@@ -4,9 +4,11 @@
 
 <h2>Education</h2>
 
-- 2017.03 ~ Ajou University [Software & Computer Science](http://software.ajou.ac.kr/main.php)
+- 2023.07 ~ SSAFY (Samsung Software Academy For Youth) [Link](https://42seoul.kr/seoul42/main/view)
 
-- 2021.10 ~ 2022.12 42Seoul [:D](https://42seoul.kr/seoul42/main/view)
+- 2021.10 ~ 2022.12 42Seoul [Link](https://42seoul.kr/seoul42/main/view)
+
+- 2017.03 ~ 2023.08 Ajou University - Software & Computer Science [Link](http://software.ajou.ac.kr/main.php)
 
 
 <h2>Work Experience</h2>
