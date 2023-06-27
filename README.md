@@ -13,7 +13,7 @@
 
 <h2>Work Experience</h2>
 
-- 2023.01 ~ 2023.02 [Innowireless](https://www.innowireless.co.kr/pages/kor/main.asp) - Server Software Develpment Team - FullStack Developer (Intern)
+- 2023.01 ~ 2023.02 Innowireless - Server Software Develpment Team - FullStack Developer (Intern) [Link](https://www.innowireless.co.kr/pages/kor/main.asp)
 
 <h2>Study</h2>
 
