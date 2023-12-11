@@ -4,20 +4,23 @@
 
 <h2>Education</h2>
 
+**[2023.10 ~ 2023.12]**<br>
+NEXTSTEP TDD, 클린 코드 with Java <br>
+
 **[2023.07 ~ ]**<br>
-SSAFY (Samsung Software Academy For Youth) [Link](https://42seoul.kr/seoul42/main/view)<br>
+SSAFY (Samsung Software Academy For Youth)<br>
 
 **[2021.10 ~ 2022.12]**<br>
-42Seoul [Link](https://42seoul.kr/seoul42/main/view)
+42Seoul
 
 **[2017.03 ~ 2023.08]**<br>
-Ajou University - Software & Computer Science [Link](http://software.ajou.ac.kr/main.php)
+Ajou University - Software & Computer Science
 
 
 <h2>Work Experience</h2>
 
 **[2023.01 ~ 2023.02]**<br>
-Innowireless - Server Software Develpment Team - FullStack Developer (Intern) [Link](https://www.innowireless.co.kr/pages/kor/main.asp)
+Innowireless - Server Software Develpment Team - FullStack Developer (Intern)
 
 <h2>Study</h2>
 
