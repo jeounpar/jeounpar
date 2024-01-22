@@ -8,7 +8,7 @@
 NEXTSTEP TDD, 클린 코드 with Java <br>
 
 **[2023.07 ~ ]**<br>
-SSAFY (Samsung Software Academy For Youth)<br>
+SSAFY (Samsung Software Academy For Youth) - Java Web Backend<br>
 
 **[2021.10 ~ 2022.12]**<br>
 42Seoul
