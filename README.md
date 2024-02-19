@@ -1,6 +1,12 @@
 <h2 align="center">JeongKyu Park 박정규</h2>
-<h3 align="center"> Learning for Backend Developer</h3>
+<h3 align="center"> Backend Developer</h3>
 
+<h2>Work Experience</h2>
+
+**[2024.03 ~ ]**<br>
+becon - Backend Developer<br><br>
+**[2023.01 ~ 2023.02]**<br>
+Innowireless - Server Software Develpment Team - FullStack Developer (Intern)
 
 <h2>Education</h2>
 
@@ -15,12 +21,6 @@ SSAFY (Samsung Software Academy For Youth) - Java Web Backend<br>
 
 **[2017.03 ~ 2023.08]**<br>
 Ajou University - Software & Computer Science
-
-
-<h2>Work Experience</h2>
-
-**[2023.01 ~ 2023.02]**<br>
-Innowireless - Server Software Develpment Team - FullStack Developer (Intern)
 
 <h2>Study</h2>
 
