@@ -1,10 +1,10 @@
 <h2 align="center">JeongKyu Park 박정규</h2>
-<h3 align="center"> Backend Developer</h3>
+<h3 align="center"> Backend Engineer</h3>
 
 <h2>Work Experience</h2>
 
 **[2024.03 ~ ]**<br>
-Becon - Backend Developer<br><br>
+Becon - Backend Engineer<br><br>
 **[2023.01 ~ 2023.02]**<br>
 Innowireless - FullStack Developer [Server Software Develpment Team] (Intern)
 
