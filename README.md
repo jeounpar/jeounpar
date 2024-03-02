@@ -6,7 +6,7 @@
 **[2024.03 ~ ]**<br>
 Becon - Backend Engineer<br><br>
 **[2023.01 ~ 2023.02]**<br>
-Innowireless - FullStack Developer [Server Software Develpment Team] (Intern)
+Innowireless - FullStack Engineer [Server Software Develpment Team] (Intern)
 
 <h2>Education</h2>
 
