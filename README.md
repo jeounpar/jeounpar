@@ -4,9 +4,9 @@
 <h2>Work Experience</h2>
 
 **[2024.03 ~ ]**<br>
-Becon - Backend Engineer<br><br>
+Becon - Backend Engineer <br><br>
 **[2023.01 ~ 2023.02]**<br>
-Innowireless - FullStack Engineer [Server Software Develpment Team] (Intern)
+Innowireless - FullStack Engineer (Intern)
 
 <h2>Education</h2>
 
