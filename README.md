@@ -21,7 +21,3 @@ SSAFY - Java Web Backend<br>
 
 **[2017.03 ~ 2023.08]**<br>
 Ajou University - Software & Computer Science
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{jeounpar}" width="1000" height="200"/>
-</a>
