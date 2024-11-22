@@ -1,5 +1,4 @@
-<h2 align="center">JeongKyu Park</h2>
-<h3 align="center">Backend Engineer</h3>
+<h3>JeongKyu Park - Backend Engineer</h3>
 
 <h2>Work Experience</h2>
 
