@@ -9,7 +9,7 @@ Innowireless - FullStack Engineer (Intern)
 
 <h2>Education</h2>
 
-**[2024.12 ~ ]**<br>
+**[2024.12 ~ 2025.02]**<br>
 항해플러스 - Backend (Typescript) <br>
 
 **[2023.11 ~ 2023.12]**<br>
