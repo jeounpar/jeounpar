@@ -3,7 +3,7 @@
 <h2>Work Experience</h2>
 
 **[2024.03 ~ 2025.04]**<br>
-Becon - Backend Engineer (Full-Time) <br><br>
+Becon - Backend Engineer (Full-Time) <br>
 
 <h2>Education</h2>
 
