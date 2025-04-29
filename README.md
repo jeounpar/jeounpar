@@ -4,8 +4,6 @@
 
 **[2024.03 ~ 2025.04]**<br>
 Becon - Backend Engineer (Full-Time) <br><br>
-**[2023.01 ~ 2023.02]**<br>
-Innowireless - FullStack Engineer (Intern)
 
 <h2>Education</h2>
 
