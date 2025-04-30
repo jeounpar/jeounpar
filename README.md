@@ -1,7 +1,8 @@
 <h3>JeongKyu Park - Backend Engineer</h3>
 
 <h2>Work Experience</h2>
-**[2024.05 ~ ]**<br>
+
+**[2025.05 ~ ]** <br>
 SIR.LOIN - Backend Engineer (Full-Time) <br>
 
 **[2024.03 ~ 2025.04]**<br>
