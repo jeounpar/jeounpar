@@ -1,7 +1,17 @@
-<h2>JeongKyu Park - Backend Engineer</h2>
+<h2>JeongGyu Park - Backend Engineer</h2>
 
-**[2025.05 ~ ]** <br>
-SIR.LOIN - Backend Engineer (Full-Time) <br>
+### Work Experience
 
-**[2024.03 ~ 2025.04]**<br>
-Becon - Backend Engineer (Full-Time) <br>
+#### **[SIR.LOIN](https://www.sirloin.co.kr/)** - Backend Engineer (Full-Time) *2025.05 ~ 2026.01*
+| Category | Tech Stack |
+|----------|-----------|
+| Backend | Kotlin (Spring WebFlux & WebMVC), TypeScript (NestJS, Mongoose, Prisma) |
+| Database | MongoDB, MySQL, Redis |
+| Infra | RabbitMQ, Kafka |
+
+#### **[Becon](https://www.beconx.com/)** - Backend Engineer (Full-Time) *2024.03 ~ 2025.04*
+| Category | Tech Stack |
+|----------|-----------|
+| Backend | TypeScript (NestJS, Express.js, TypeORM) |
+| Database | MySQL, DynamoDB, Redis |
+| Infra | AWS (ECS, SQS, SNS, Lambda, EventBridge, RDS), AWS CDK, Grafana |
