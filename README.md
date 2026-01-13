@@ -15,3 +15,7 @@
 | Backend | TypeScript (NestJS, Express.js, TypeORM) |
 | Database | MySQL, DynamoDB, Redis |
 | Infra | AWS (ECS, SQS, SNS, Lambda, EventBridge, RDS), AWS CDK, Grafana |
+
+### Education
+
+#### **Ajou University** - Software *2017.03 ~ 2023.08*
