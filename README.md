@@ -5,5 +5,4 @@
 - [Becon](https://www.beconx.com/) - Backend Engineer (B2B Healthcare SaaS) [2024.03 ~ 2025.04]
 
 #### Education
-
-Ajou University - Software [2017.03 ~ 2023.08]
+- Ajou University - Software [2017.03 ~ 2023.08]
