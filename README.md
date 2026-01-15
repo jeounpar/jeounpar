@@ -6,4 +6,4 @@
 
 #### Education
 
-Ajou University - Software *2017.03 ~ 2023.08*
+Ajou University - Software [2017.03 ~ 2023.08]
