@@ -13,5 +13,5 @@
 
 ### Education
 
-**Ajou University** — Software  
+**Ajou University** — Computer Science and Engineering   
 `2017.03 ~ 2023.08`
